@@ -1,4 +1,4 @@
-# Foo Project
+# Foo & Bar Project
 
 ## Authors
 
